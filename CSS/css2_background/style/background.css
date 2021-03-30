@@ -1,0 +1,15 @@
+body{
+    background-image: url('../img/water.jpg');
+    background-size:cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.text{
+    color: gold;
+}
