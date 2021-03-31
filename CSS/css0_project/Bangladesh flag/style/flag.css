@@ -1,0 +1,31 @@
+
+#rect{
+    background-color: green;
+    width: 800px;
+    height: 350px;
+    margin-top: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 200px
+    
+}
+
+ #circle{
+    position: relative;
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    top: -500px;
+    left: 600px;
+    border-radius: 150px;
+}
+
+#text{
+    position: relative;
+    color: red;
+    text-align: center;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    top: -390px;
+}
